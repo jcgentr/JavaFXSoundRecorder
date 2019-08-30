@@ -1,0 +1,19 @@
+.button {
+    -fx-font-family: 'fantasy';
+    -fx-font-size: 24px;
+}
+
+#recordBtn {
+    -fx-background-color: antiquewhite;
+    -fx-text-fill: black;
+}
+
+#playBtn {
+    -fx-background-color: aquamarine;
+    -fx-text-fill: black;
+}
+
+#timeLbl {
+    -fx-font-family: 'fantasy';
+    -fx-font-size: 24px;
+}

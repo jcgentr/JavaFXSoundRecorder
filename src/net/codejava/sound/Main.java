@@ -17,7 +17,7 @@ public class Main extends Application {
   public void start(Stage primaryStage) throws Exception {
     Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
     primaryStage.setTitle("JavaFX Sound Recorder");
-    Scene scene = new Scene(root, 315, 150);
+    Scene scene = new Scene(root, 600, 150);
     primaryStage.setScene(scene);
     primaryStage.show();
   }
